@@ -1,0 +1,146 @@
+[
+    {
+        "id": 1,
+        "title": "RLC Exclusive McLaren F1",
+        "price": 35.00,
+        "description": "Our RLC Exclusive McLaren F1 pays tribute to the vision of a driving force built for serious hustle. This recreation rocks electric dark orange Spectraflame paint and butterfly doors. It’s a casting loaded with premium touches, including the trim, lights, badging, interior, painted matte silver wheels, and of course the engine. The ultra-detailed RLC McLaren F1 may be just 1:64 scale, but it will command your entire shelf.",
+        "category": "british",
+        "image": "https://creations.mattel.com/cdn/shop/files/HGK75_03.jpg?v=1711727472",
+        "rating": {
+            "rate": 3.9,
+            "count": 120
+        }
+    },
+    {
+        "id": 2,
+        "title": "Hot Wheels RLC 1972 Skyline H/T 2000GT-R",
+        "price": 25.00,
+        "description": "The RLC Exclusive 1972 Nissan Skyline H/T 2000GT-R is ready to take your collection to the dark side. This lightweight speed demon is a Hot Wheels classic, but our design team reimagined it with a menacing color scheme. The black and red Spectraflame paint job and exclusive ADVAN livery with authentic sponsor decals make this blacked-out JDM beauty a devilishly sinister sight.",
+        "category": "japanese",
+        "image": "https://creations.mattel.com/cdn/shop/products/kj0rhl5d5vejnpilmd9h_4be80cf0-7be3-4855-bcde-9e70d58e1853.jpg?v=1709082157",
+        "rating": {
+            "rate": 4.1,
+            "count": 259
+        }
+    },
+    {
+        "id": 3,
+        "title": "Matchbox Porsche 911 RSR",
+        "price": 29.00,
+        "description": "There’s a reason the Porsche 911 RSR is every racer’s dream car. While every Porsche boasts precision engineering, the RSR (from the German ‘Rennsport-Rennwagen’ or ‘racing sport racing car’) is a competition-model 911 that’s far from street legal. Our collectible casting boasts smoke-tinted windows, stylish graphics, and Matchbox True Grip tires on Euro spoke wheels, making this perfectly engineered racer every collector’s dream.",
+        "category": "german",
+        "image": "https://creations.mattel.com/cdn/shop/products/ohddfnt71upmk2wu80il_545c8610-f0c3-48f3-b9b6-24f2829bdaf2.jpg?v=1708504113",
+        "rating": {
+            "rate": 4.7,
+            "count": 500
+        }
+    },
+    {
+        "id": 4,
+        "title": "RLC Exclusive '68 Custom Plymouth Barracuda",
+        "price": 15.00,
+        "description": "The Plymouth Barracuda was one of the most customized cars of its day. That’s why we took this 1968 model and maxed it out with a 1000hp Hellephant Hemi engine and lowered rear four-link coilover suspension. We even included some body mods like fender flairs, custom hood inserts, a rear spoiler, and so much more. Even the color is custom – the first-ever use of Spectraflame Teal in the RLC. Our classic ride is ready to race into your collection.",
+        "category": "american",
+        "image": "https://creations.mattel.com/cdn/shop/files/HWF13_02.jpg?v=1713540623",
+        "rating": {
+            "rate": 2.1,
+            "count": 430
+        }
+    },
+    {
+        "id": 5,
+        "title": "HWC Elite 64 Series Modified ’69 Ford Mustang",
+        "price": 20.00,
+        "description": "From our Legends Collection, the Naga was inspired by the mythical water dragon that protects the ocean's pearl. Wear facing inward to be bestowed with love and abundance, or outward for protection.",
+        "category": "american",
+        "image": "https://creations.mattel.com/cdn/shop/products/agwgvcsoabsuvytsnt2a_5e011787-bfc7-4618-bfcf-d62b48dc04a6.jpg?v=1692919587",
+        "rating": {
+            "rate": 4.6,
+            "count": 400
+        }
+    },
+    {
+        "id": 6,
+        "title": "RLC Exclusive Magnus Walker “Urban Outlaw” Porsche 964",
+        "price": 168,
+        "description": "Famed fashion and automobile designer Magnus Walker has a special affinity for Porsche. His 964 designs have been nothing short of epic, and our recreation is no exception. With body mods differentiating it from a stock Porsche, a Spectraflame mint green paint job, and metallic gold graphics, it’s bound to turn heads. We even recreated a sage green interior with authentic plaid seat detail and specially designed Real Riders fifteen52 Outlaw wheels with gold hubs to bring Magnus’s authentic designs to 1:64 scale.",
+        "category": "german",
+        "image": "https://creations.mattel.com/cdn/shop/products/pmswo3z7q6pii8u2ynpn_91ac0dde-51cf-4388-9a5a-a81cef439a49.jpg?v=1700247093",
+        "rating": {
+            "rate": 3.9,
+            "count": 70
+        }
+    },
+    {
+        "id": 7,
+        "title": "RLC Exclusive 1995 Honda Integra Type R",
+        "price": 19.99,
+        "description": "The 1995 Honda Integra Type R is regarded as one of the best front-wheel drive cars of all time. We created this 1:64 scale version of the Japanese Domestic Market car featuring a right-hand drive and a Japanese spec front end. The die-cast body is coated in white enamel to match the iconic Championship White factory finish, making this sleek performer look just like the JDM legend.",
+        "category": "japanese",
+        "image": "https://creations.mattel.com/cdn/shop/products/bd7bnlmmmshnj5tz6jqn_f86bcc5b-9b36-42c4-8b6e-3d35d62c394a.jpg?v=1700246483",
+        "rating": {
+            "rate": 3,
+            "count": 400
+        }
+    },
+    {
+        "id": 8,
+        "title": "Hot Wheels® RLC™ 1955 Mercedes-Benz 300 SL - Oxblood",
+        "price": 30.99,
+        "description": "The Mercedes is a fan favorite, but this time we made it red hot. Introducing the RLC Exclusive 1955 Mercedes-Benz 300 SL in Spectraflame oxblood. This sought-after classic is a monument to performance, design, and technological advancements. Featuring opening gullwing doors, Real Riders GT VUM chrome wheels, and a detailed interior, this premium car is a classic for any Hot Wheels collection.",
+        "category": "german",
+        "image": "https://creations.mattel.com/cdn/shop/products/yl8jsdtq015amhsovcmr.jpg?v=1691683606",
+        "rating": {
+            "rate": 1.9,
+            "count": 100
+        }
+    },
+    {
+        "id": 9,
+        "title": "RLC sELECTIONs ’82 Lamborghini Countach LP 500 S",
+        "price": 40.00,
+        "description": "Our Red Line Club sELECTIONs editions are all about choices, and you made an exceptional one with the ’82 Lamborghini Countach LP 500 S.For this serious supercar, you also chose Spectraflame ice blue for color and Real Riders modern wheels. Then our team finished it with authentic logos and a detailed interior and chassis. Remember – this casting features opening scissor doors.",
+        "category": "italian",
+        "image": "https://creations.mattel.com/cdn/shop/products/lcwlsbk7flqlki4yj2ma_397dd162-31cc-41b7-b792-f006e856e349.jpg?v=1708501520",
+        "rating": {
+            "rate": 3.3,
+            "count": 203
+        }
+    },
+    {
+        "id": 10,
+        "title": "RLC Exclusive 1969 Dodge Charger R/T",
+        "price": 33.00,
+        "description": "An enduring classic, the Charger’s rich history has made it an iconic symbol of American muscle. Our RLC Exclusive follows suit with Spectraflame paint that re-captures Dodge’s unmistakable ‘Lemon Twist Yellow’ factory color, plus a detailed Hellephant engine (a combo of MOPAR’s Hellcat and Elephant engines) and Real Riders 5-spoke wheels, making it a classic addition to your collection.",
+        "category": "american",
+        "image": "https://creations.mattel.com/cdn/shop/products/wktuai1xqh7oeqtviexn_403205cf-a913-4973-8e3e-3a623c96c1c6.jpg?v=1708504101",
+        "rating": {
+            "rate": 2.9,
+            "count": 470
+        }
+    },
+    {
+        "id": 11,
+        "title": "RLC Exclusive Nissan Skyline GT-R",
+        "price": 17.38,
+        "description": "For our 2022 Japanese Convention Car, we’re recasting the fan-favorite Nissan Skyline GT-R. Featuring Spectraflame black over chrome for a dark sheen, this third colorway makes a statement wherever it rolls. With special touches like the iconic NISMO livery and a ghosted Hot Wheels logo on the door, this model is made to show off.  ",
+        "category": "japanese",
+        "image": "https://creations.mattel.com/cdn/shop/products/fc9djzwigfdi3fknukb1.jpg?v=1708501517",
+        "rating": {
+            "rate": 4.8,
+            "count": 319
+        }
+    },
+    {
+        "id": 12,
+        "title": "HWC Elite 64 Series Mercedes-Benz 300 SL",
+        "price": 48.00,
+        "description": "Our second release of the new Elite 64 series on 2/7/23 honors vintage racing and a classy winner. The life-sized Mercedes-Benz 300 SL took first in its class at the 1955 Mille Miglia race in Italy. Our designers held nothing back when it came to this speedy and stylish superstar, from the commemorative “417” emblazoned on the exterior to the opening gullwing doors. We’ve ensured authenticity with this series, using 20+ piece construction to achieve stunning homages to the real, in-demand vehicles that inspired them.",
+        "category": "german",
+        "image": "https://creations.mattel.com/cdn/shop/products/pw3trnqiaboesywlmwfb.jpg?v=1708501480",
+        "rating": {
+            "rate": 4.8,
+            "count": 400
+        }
+    }
+]

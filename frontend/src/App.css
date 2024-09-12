@@ -1,0 +1,425 @@
+.banner-content{
+  color: rgb(0, 0, 0);
+      background-color: rgba(227, 227, 227, 0.955);
+      padding: 2px;
+      margin-left:  -12px;
+      margin-right: -12px;
+      font-family: 'Courier New', Courier, monospace;
+      text-align: center;
+      font-size: xx-small
+}
+.banner a{
+  color: #000000;
+}
+
+.hero {
+  background-color: #f8f9fa;
+  padding: 80px 0;
+  text-align: center;
+}
+
+.hero-content {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.search-bar {
+  text-align: center;
+  padding: 20px 0;
+}
+
+.search-bar input {
+  width: 300px;
+  padding: 10px;
+  font-size: 16px;
+}
+
+.featured-products {
+  padding: 40px 0;
+  text-align: center;
+}
+
+.product-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.product {
+  width: 250px;
+  margin: 20px;
+  padding: 10px;
+  background-color: #fff;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.product img {
+  width: 100%;
+  height: 200px;
+  object-fit: cover;
+  border-bottom: 1px solid #ddd;
+}
+
+.product-details {
+  padding: 10px;
+}
+
+.product-details h3 {
+  margin-top: 0;
+}
+
+.product-details p {
+  font-size: 18px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+/* ---------- NAVIGATION BAR ---------- */
+
+.navBar {
+  display: flex;
+  justify-content: center; /* Center the links horizontally */
+  background-color: #000000;
+  padding: 20px 0;
+ 
+}
+
+.navLink {
+  color: #fff;
+  text-decoration: none;
+  margin-left: 53px;
+  font-size: 16px; /* Default font size */
+  font-family: 'Times New Roman', Times, serif;
+  text-align: center;
+ 
+  
+}
+
+.homelink {
+padding-left: 65px;
+
+}
+
+.otherlink{
+  padding-top: 25px;
+  padding-right:40px;
+}
+.otherlink1{
+  padding-top: 25px;
+  margin-left: 95px;
+}
+
+/* ---------- POST PAGE ---------- */
+
+.formInfoIndividual {
+  text-align: center;
+  margin: 10px;
+  font-size: 18px;
+  font-family: Georgia, 'Times New Roman', Times, serif
+  
+}
+
+input {
+  padding-left: 5px;
+  font-size: 18px;
+  font-family: 'Times New Roman', Times, serif;
+  
+}
+
+#stateDescription {
+  width: 500px;
+}
+
+#stateTitle {
+  width: 500px;
+}
+
+#stateCategory{
+  width: 500px;
+}
+
+#stateImage{
+  width: 500px;
+}
+
+#statePrice {
+  width: 500px;
+}
+
+#stateRate {
+  width: 500px;
+}
+
+#stateCount {
+  width: 500px;
+}
+
+/* ---------- GET PAGE ---------- */
+
+.container {
+  width: 90%;
+  margin: 0 auto;
+}
+
+.products-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.product-card {
+  background-color: white;
+  width: calc(25% - 20px); /* Adjusted width to fit 4 products per row */
+  margin: 20px 0;
+ 
+  border-radius: 5px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  overflow: hidden; /* Ensure product picture containers respect their dimensions */
+}
+
+.product-picture-container {
+  position: relative;
+  height: 200px; /* Set height for product picture container */
+  overflow: hidden; /* Ensure product pictures don't overflow the container */
+}
+
+.product-image {
+  width: 100%;
+  height: 100%;
+  object-fit: cover; /* Maintain aspect ratio for product pictures */
+}
+
+.product-details {
+  padding: 20px;
+}
+
+.product-title {
+  font-size: 24px;
+  color: #333;
+}
+
+.product-category {
+  font-size: 18px;
+  
+}
+
+.product-description {
+  font-size: 16px;
+ 
+}
+
+.price-and-rating {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.product-price {
+  font-size: 20px;
+  color: #ff5252;
+}
+
+.product-rating {
+  font-size: 18px;
+  color: #2196f3;
+}
+
+
+
+
+/* ---------- PUT PAGE ---------- */
+
+.product-info {
+  flex-grow: 1; /* Allow the info container to grow to fill the space */
+}
+
+
+/* ---------- DELETE PAGE ---------- */
+
+.container1{
+  margin: 20px;
+}
+
+.product-details {
+  background-color: #ffffff;
+  padding: 20px;
+  border-radius: 5px;
+  margin-bottom: 20px;
+}
+
+.product-title {
+  font-size: 24px;
+  color: #0f0101;
+}
+
+.product-image {
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+  margin-top: 20px;
+  margin-left: 60px;
+}
+
+.product-category {
+  font-size: 18px;
+  color: #666;
+}
+
+.product-description {
+  font-size: 16px;
+  color: #444;
+}
+
+.price-and-rating {
+  margin-top: 10px;
+}
+
+.product-price {
+  font-size: 18px;
+  color: #555;
+}
+
+.product-rating {
+  font-size: 16px;
+  color: #777;
+}
+
+.button {
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+  margin-right: 10px;
+}
+
+.button:hover {
+  background-color: #0056b3;
+}
+
+.delete-button {
+  background-color: #dc3545;
+}
+
+.update-button {
+  background-color: #28a745;
+}
+
+.form-container {
+  margin-top: 20px;
+}
+
+label {
+  display: block;
+  margin-bottom: 5px;
+  font-weight: bold;
+}
+
+input {
+  width: 100%;
+  padding: 10px;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+  margin-bottom: 10px;
+}
+
+
+input[type="number"]::-webkit-inner-spin-button,
+input[type="number"]::-webkit-outer-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+
+/* ---------- ABOUT PAGE ---------- */
+
+.aboutContainer {
+  max-width: 800px;
+  margin: auto;
+  padding: 20px;
+  background-color: #f8f9fa;
+  border-radius: 10px;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+}
+
+.aboutHeader {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.aboutTitle {
+  font-size: 32px;
+  color: #343a40;
+  margin-bottom: 5px;
+}
+
+.aboutDate {
+  font-size: 20px;
+  color: #6c757d;
+}
+
+.aboutContent {
+  text-align: center;
+}
+
+.aboutParagraph {
+  line-height: 1.6;
+  color: #495057;
+}
+
+.aboutPeople {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 30px;
+}
+
+.aboutInfo {
+  width: 30%;
+  background-color: #ffffff;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+}
+
+.personImage {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  margin-bottom: 10px;
+}
+
+.personName {
+  font-weight: bold;
+  margin-bottom: 5px;
+}
+
+body {
+  background-image: url("https://images.unsplash.com/photo-1561890774-2e24945807a8?q=80&w=3079&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D");
+  background-color: rgb(24, 24, 24);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed; /* Optional: This keeps the background fixed while scrolling */
+}
+.label{
+  color: white;
+}
+.add{
+  margin-left: 35px;
+  
+}
+.form-container{
+  color: white;
+  margin-right:  1000px;
+}
